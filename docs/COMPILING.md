@@ -3,6 +3,7 @@
 ## INSTALL SHIT ! ! !
 
 First you install **Haxe 4.2.4** (Please don't use 4.1.5 you ain't compiling FNF)
+
 Then install **Git** (We need to clone this repository because we cool)
 
 ## HOW TO CLONE ! ! !
@@ -22,3 +23,11 @@ Open up your terminal, then install these dependencies with the use of **haxelib
 - `haxelib run lime setup`
 - `haxelib run lime setup flixel`
 - `haxelib run flixel-tools setup`
+
+## HOW TO RUN ! ! !
+
+If you know how to open up your terminal in the folder of this repository, then do it
+
+Now you should type and run `lime test windows` in your terminal
+
+## THAT'S ALL ! ! !
