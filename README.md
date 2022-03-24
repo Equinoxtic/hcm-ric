@@ -1,2 +1,1 @@
-# hcm-ric-the-game
- HCM RIC: The Game
+# HCM RIC: The Game
